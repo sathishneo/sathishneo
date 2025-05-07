@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm Sathish Kumar 👋
 
-<!--
-**sathishneo/sathishneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Web Developer | Learning React | Passionate about building intuitive digital experiences
 
-Here are some ideas to get you started:
+ 🚀 About Me
+- 💻 I’m passionate about **Web Development**
+- 🌱 Currently learning **React.js**
+- 📫 Reach me at: sathishdev428@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sathishneo)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/sathish_neo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/sathish_neo)
+
